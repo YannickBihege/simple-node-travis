@@ -15,3 +15,4 @@ This is a very simple, bare-bones NodeJS project created for you to use with Doc
 
 ## Travis Integration
 * Update the travis yaml file
+* Make the hub repository private
